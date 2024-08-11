@@ -9,6 +9,7 @@ public class ExecutionClass {
 		// TODO Auto-generated method stub
 		WebDriver web = new ChromeDriver();
 		web.get("https://learn-automation.com/");
+		System.err.println("Added new enhancement");
 	}
 
 }
